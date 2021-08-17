@@ -1,5 +1,10 @@
 #导入库，导入算法,导入可视化工具
-
+print("----------------------------------------------------------------")
+print("X          X     XXXXX        X   X       X     X         X   X")
+print("X          X     X   X        X   X          X            X   X")
+print("X          X     X   X        X   X         X  X          X   X")
+print("X X X X    X     X   X        XXXXX      X       X        XXXXX")
+print("----------------------------------------------------------------")
 
 from sklearn import datasets
 from sklearn.linear_model import LinearRegression
@@ -57,6 +62,8 @@ X,Y=datasets.make_regression(n_samples=100,n_features=1,n_targets=1,noise=10)
 
 plt.scatter(X,Y)
 plt.show()
+
+
 
 
 
