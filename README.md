@@ -58,9 +58,10 @@ Use the mainstream machine learning library Sklearn.
 
 ### Project display
 
-![图片](/Applications/编程和网安/上架到GitHub或gitee的所有项目/机器学习.py/数据库.py/截屏2021-08-17 下午5.20.16.png)
+<img width="1680" alt="截屏2021-08-17 下午5 20 16" src="https://user-images.githubusercontent.com/83543818/130066859-444e3981-8413-4ca5-91ac-48eb5d549e08.png">
+<img width="1680" alt="截屏2021-08-17 下午5 20 38" src="https://user-images.githubusercontent.com/83543818/130066868-d7604050-c04b-4c7c-8350-1c08b707d228.png">
 
-## ![截屏2021-08-17 下午5.20.38](/Applications/编程和网安/上架到GitHub或gitee的所有项目/机器学习.py/数据库.py/截屏2021-08-17 下午5.20.38.png)
+
 
 ### Developer email
 
