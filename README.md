@@ -49,6 +49,12 @@ LinearRegression
 Sklearn
 
 Matplotlib
+### Library installation
+Enter the content in the terminal
+```shell
+pip3 install sklearn
+pip3 install matplotlib
+```
 
 ### Fresh
 
