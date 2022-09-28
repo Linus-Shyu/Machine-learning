@@ -26,7 +26,7 @@ Matplotlib（3.4.2）
 
 ### Participate in development
 
-Xu Faxin(Linuxu5610)
+Linus Shyu
 
 ### Instructions
 
