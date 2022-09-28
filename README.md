@@ -71,7 +71,7 @@ Use the mainstream machine learning library Sklearn.
 
 ### Developer email
 
-Awmtft@163.com
+linusshyu@gmail.com
 
 ## Thanks!
 
